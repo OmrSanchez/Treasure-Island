@@ -69,5 +69,3 @@ else:
     print(
         f"{decision_one}.\nThis decision.\nBaffling!\nIt was completely wrong.\nStupid even.\n'The narrator confused by your decision decides to leave the game.'\nYou stand there in silence.\nThe decisions have ended.\nThe story over.\nWhy did you do that?\n{decision_one}.\nRemember your decision.\nGAME OVER!"
     )
-
-#https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
